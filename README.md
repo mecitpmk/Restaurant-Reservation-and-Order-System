@@ -2,6 +2,9 @@
 
 This Software builted for Restaurants. Waiters can create easily orders for customers and make reservation for tables.
 
+## Database System
+
+The Software is saving all Customers , customers orders, Restaurants, restaurants menus. Therefore, This system can be used in real life.
 
 ## How It Looks Like
 When the Restaurant Created Succesfully all tables will be green and empty.
